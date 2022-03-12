@@ -8,8 +8,6 @@ public class Arac {
     String vites; //(manuel otomatik)
     double gunlukUcret; //( 100 120 150... liste dısı arac=300)
     
-    
-    
     public Arac() {
     	
     }
